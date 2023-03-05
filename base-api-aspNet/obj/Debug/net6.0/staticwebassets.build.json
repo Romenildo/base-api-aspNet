@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T+FVPfi/heH626+TJZxIXE27hxVqGKG2lyqTLJ1eKoI=",
+  "Source": "base-api-aspNet",
+  "BasePath": "_content/base-api-aspNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
